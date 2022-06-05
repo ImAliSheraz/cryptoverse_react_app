@@ -1,10 +1,18 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+## Cryptoverse News and Exchange App
 
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
+A simple React App to track cryptocurrencies, news and cryptocurrencies exchange App. I used React and multiple APIs powered by https://rapidapi.com.
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+## Project Setup
 
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
+Run following command to install all dependabilities.
 
-By the end of this video, you will become the master of working with APIs.
+`npm install`
+
+Run following command to start server.
+
+`npm start`
+
+## Show Your Support
+
+- [Recommend Me On LinkedIn](https://www.linkedin.com/in/imalisheraz/) - I will realy Appriciate this
+- Don't forget to star ⭐ the repo 😉, it's FREE.
